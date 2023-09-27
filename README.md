@@ -1,7 +1,7 @@
 # android
 ##Prerequisites:
 ##Install Nodejs :
-    Ubuntu:
+    Ubuntu:</br>
         curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
         sudo apt -y install nodejs
 ##To Run the APP:
