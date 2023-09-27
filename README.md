@@ -2,8 +2,8 @@
 ## Prerequisites:</br>
 ## Install Nodejs :</br>
     Ubuntu:
-        curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -</br>
-        sudo apt -y install nodejs</br>
+        curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+        sudo apt -y install nodejs
 ## To Run the APP:</br>
   - go to client</br>
   - type npm install</br>
