@@ -8,7 +8,7 @@
   - go to client</br>
   - type npm install</br>
   - go to server</br>
-  - type npm install</br></br>
+  - type npm install</br>
   - type npm start on both location to start client and server</br>
 ### Socket server details:</br>
   - socket server will be running on localhost:5001</br>
